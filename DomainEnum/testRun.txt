@@ -1,0 +1,42 @@
+[31m[[33m+[31m][39m [36mFound subdomain: [39mhttp://www.google.com
+[31m[[33m+[31m][39m [36mFound subdomain: [39mhttp://mobile.google.com
+[31m[[33m+[31m][39m [36mFound subdomain: [39mhttp://m.google.com
+[34m==============================[39m http://www.google.com [34m==============================
+[31m[[33m+[31m][39m [36mRegistrar:[39mMarkMonitor, Inc.
+[31m[[33m+[31m][39m [36mWHOIS server:[39mwhois.markmonitor.com
+[31m[[33m+[31m][39m [36mDns security: [39munsigned
+[31m[[33m+[31m][39m [36mOrganization: [39mGoogle LLC
+[31m[[33m+[31m][39m [36mEmails:[39m['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']
+[31m[[33m+[31m][39m [36mUpdated date:[39m 09-09 15:39:04-2019
+[31m[[33m+[31m][39m [36mCreation date: [39m9-15-1997
+[31m[[33m+[31m][39m [36mExpiration date: [39m9-14-2028
+[31m[[33m+[31m][39m [36mCountry: [39mUS
+[31m[[33m+[31m][39m [36mState: [39mCA
+[31m[[33m+[31m][39m [36mAddress:[39m None
+[31m[[33m+[31m][39m [36mPostal code: [39mNone
+[34m==============================[39m http://m.google.com [34m==============================
+[31m[[33m+[31m][39m [36mRegistrar:[39mMarkMonitor, Inc.
+[31m[[33m+[31m][39m [36mWHOIS server:[39mwhois.markmonitor.com
+[31m[[33m+[31m][39m [36mDns security: [39munsigned
+[31m[[33m+[31m][39m [36mOrganization: [39mGoogle LLC
+[31m[[33m+[31m][39m [36mEmails:[39m['abusecomplaints@markmonitor.com', 'whoisrequest@markmonitor.com']
+[31m[[33m+[31m][39m [36mUpdated date:[39m 09-09 15:39:04-2019
+[31m[[33m+[31m][39m [36mCreation date: [39m9-15-1997
+[31m[[33m+[31m][39m [36mExpiration date: [39m9-14-2028
+[31m[[33m+[31m][39m [36mCountry: [39mUS
+[31m[[33m+[31m][39m [36mState: [39mCA
+[31m[[33m+[31m][39m [36mAddress:[39m None
+[31m[[33m+[31m][39m [36mPostal code: [39mNone
+[34m==============================[39m http://mobile.google.com [34m==============================
+[31m[[33m+[31m][39m [36mRegistrar:[39mMarkMonitor Inc.
+[31m[[33m+[31m][39m [36mWHOIS server:[39mwhois.markmonitor.com
+[31m[[33m+[31m][39m [36mDns security: [39munsigned
+[31m[[33m+[31m][39m [36mOrganization: [39mNone
+[31m[[33m+[31m][39m [36mEmails:[39mabusecomplaints@markmonitor.com
+[31m[[33m+[31m][39m [36mUpdated date:[39m 09-09 15:39:04-2019
+[31m[[33m+[31m][39m [36mCreation date: [39m
+[31m[[33m+[31m][39m [36mExpiration date: [39m
+[31m[[33m+[31m][39m [36mCountry: [39mNone
+[31m[[33m+[31m][39m [36mState: [39mNone
+[31m[[33m+[31m][39m [36mAddress:[39m None
+[31m[[33m+[31m][39m [36mPostal code: [39mNone
